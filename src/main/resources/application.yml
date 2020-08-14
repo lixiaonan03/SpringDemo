@@ -1,0 +1,9 @@
+
+server:
+      port: 18080
+      #访问地址
+      address: 0.0.0.0
+spring:
+devtools:
+restart:
+enabled: false
